@@ -1,0 +1,20 @@
+{
+  "name": "ssi-loader",
+  "version": "0.0.1",
+  "description": "Webpack SSI loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssi",
+    "webpack"
+  ],
+  "author": "Ivo Reis",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "object-assign": "^4.1.1",
+    "sync-request": "^3.0.1"
+  }
+}
